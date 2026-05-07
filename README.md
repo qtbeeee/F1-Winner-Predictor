@@ -26,10 +26,10 @@ To move beyond basic statistics, the following engineered features were critical
 ## Detailed Technical Write-up: https://medium.com/@qutub649/cs-334-final-project-predicting-the-winner-of-a-formula-1-race-2018-2024-using-machine-learning-872c9a904a6a
 
 ## Acknowledgments
-**Muhammad Shahbaz Aziz Khan**
-**Mehreen Iqbal**
-**Jazim Ali**
-**Qutab Muhammad**
-**Anas Asim Sheikh**
+* **Muhammad Shahbaz Aziz Khan**
+* **Mehreen Iqbal**
+* **Jazim Ali**
+* **Qutab Muhammad**
+* **Anas Asim Sheikh**
 
 
